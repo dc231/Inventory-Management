@@ -27,8 +27,8 @@ This is the backend service for the Inventory Management Tool, built with Node.j
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/inventory-management-backend.git
-   cd inventory-management-backend
+   git clone https://github.com/dc231/Inventory-Management.git
+   cd backend
    ```
 
 2. **Install dependencies**
